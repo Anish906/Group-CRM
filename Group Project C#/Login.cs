@@ -8,6 +8,6 @@ namespace Group_Project_C_
 {
     internal class Login
     {
-        // Update check Check
+        // Update check
     }
 }
